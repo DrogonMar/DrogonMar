@@ -1,4 +1,4 @@
 ## Stuff im doing
+- Waiku, A Wayland compositor.
 - O3DE Wayland support.
-- TuLabSound Gem
 - Rhythm game in O3DE
